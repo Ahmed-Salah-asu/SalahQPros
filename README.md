@@ -16,13 +16,13 @@ o	Open website: (https://www.demoblaze.com/)
 
 o	Click on SignUp.
 
-o	fill all requred data
+o	fill all required  data
 
 o	accept alert
 
 o	Click on login.
 
-o	fill all requred data
+o	fill all required data
 
 o	accept alert  
 
