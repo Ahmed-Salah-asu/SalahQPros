@@ -20,7 +20,7 @@ o	fill all requred data
 
 o	accept alert
 
-oo	Click on login.
+o	Click on login.
 
 o	fill all requred data
 
